@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-import javax.swing.JTextPane;
+import javax.swing.JTextPane; 
 import javax.swing.SwingConstants;
 import javax.swing.text.SimpleAttributeSet;
 import javax.swing.text.StyleConstants;
